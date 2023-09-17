@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/projects\02-miscellaneous\melos_miscellaneous.iml" filepath="$PROJECT_DIR$/projects\02-miscellaneous\melos_miscellaneous.iml" />
       <module fileurl="file://$PROJECT_DIR$/projects\01-riverapp\melos_riverapp.iml" filepath="$PROJECT_DIR$/projects\01-riverapp\melos_riverapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/melos_flutter_recursos_nativos.iml" filepath="$PROJECT_DIR$/melos_flutter_recursos_nativos.iml" />
     </modules>
